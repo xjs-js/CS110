@@ -1,18 +1,21 @@
-# CS110
-## Principles of Computer Systems
+# [CS110 - CS110: Principles of Computer Systems](https://web.stanford.edu/class/cs110/)
 
-Assignment I: Six Degrees
+Read [Honor Code](https://communitystandards.stanford.edu/policies-and-guidance/honor-code#honor-code) first.
 
-Assignment II: Unix v6 File Systems
+> This repo doesn't have any implementation. Just only start codes.
 
-Assignment III: Multi-processing
+- [x] Assignment I: Six Degrees
 
-Assignment IV: STford SHell (STSH)
+- [ ] Assignment II: Unix v6 File Systems
 
-Assignment V: News Aggregator (Multi-threading)
+- [ ] Assignment III: Multi-processing
 
-Assignment VI: News Aggregator (Thread Pool)
+- [ ] Assignment IV: STford SHell (STSH)
 
-Assignment VII: HTTP Web Proxy
+- [ ] Assignment V: News Aggregator (Multi-threading)
 
-Assignment VIII: MapReduce
+- [ ] Assignment VI: News Aggregator (Thread Pool)
+
+- [ ] Assignment VII: HTTP Web Proxy
+
+- [ ] Assignment VIII: MapReduce
