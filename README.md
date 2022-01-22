@@ -1,4 +1,4 @@
-# [CS110 - CS110: Principles of Computer Systems](https://web.stanford.edu/class/cs110/)
+# [CS110: Principles of Computer Systems](https://web.stanford.edu/class/cs110/)
 
 Read [Honor Code](https://communitystandards.stanford.edu/policies-and-guidance/honor-code#honor-code) first.
 
